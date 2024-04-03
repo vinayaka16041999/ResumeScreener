@@ -1,0 +1,4 @@
+watchdog
+PyMuPDF
+python-docx
+textract
